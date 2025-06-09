@@ -8,7 +8,7 @@ I love crafting sustainable solutions that are simple yet effective to help orga
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [arundeepak89@gmail.com](mailto:arundeepak89@gmail.com)
-* 🧠  I'm learning DBT on Airflow
+* 🧠  I'm learning about Model Context Protocol currently
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
