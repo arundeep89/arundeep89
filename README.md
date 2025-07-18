@@ -11,6 +11,9 @@ I love crafting sustainable solutions that are simple yet effective to help orga
 * 🧠  I'm learning about Model Context Protocol currently
 * 🤝  I'm open to collaborating on interesting projects
 
+### Interact with my digital avatar bot [here](https://arundeep89.github.io/) !
+
+
 ### Skills
 
 
