@@ -11,14 +11,25 @@ I love crafting sustainable solutions that are simple yet effective to help orga
 * 🧠  I'm learning about Model Context Protocol currently
 * 🤝  I'm open to collaborating on interesting projects
 
-### Interact with my digital avatar bot [here](https://arundeep89.github.io/) !
-
+[![Chat with my digital avatar](https://img.shields.io/badge/🤖%20Chat%20with%20my%20digital%20avatar-Click%20here-blue?style=for-the-badge)](https://arundeep89-career-conversations.hf.space)
 
 ### Skills
 
 
 <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlebigquery/4285F4" width="36" height="36" alt="BigQuery" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" /></a>
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="36" height="36" alt="Apache Airflow" /></a>
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" width="36" height="36" alt="dbt" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachekafka/231F20" width="36" height="36" alt="Apache Kafka" /></a>
+<a href="https://flink.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apacheflink/E6526F" width="36" height="36" alt="Apache Flink" /></a>
+<a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Iceberg-017CEE?style=flat-square&logo=apache&logoColor=white" width="36" height="36" alt="Apache Iceberg" /></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/terraform/623CE4" width="36" height="36" alt="Terraform" /></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="36" height="36" alt="CI/CD" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://cursor.sh/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cursor/000000" width="36" height="36" alt="Cursor" /></a>
+
 </p>
 
 
